@@ -1,0 +1,5 @@
+William: -Hi. You reached the first
+level. Well done! Here's a present for you ...
+For each level you will receive
+awards.
+(the list of awards can be viewed on the game's website) 
