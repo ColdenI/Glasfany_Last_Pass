@@ -1,0 +1,2 @@
+The blacksmith has golden hands. He can forge 
+some items: picks, axes, arrows and steel. 

@@ -1,0 +1,28 @@
+<start_button_title-1>
+START GAME
+<start_button_title-2>
+CONTINUE
+<title-1>
+OPEN
+<title-2>
+Sound volume
+<title-3>
+Music volume
+<title-4>
+Settings
+<title-5>
+Doors passed: 
+<title-6>
+Attack
+<title-7>
+                        The enemy was stronger! 
+Your body near the castle was picked up by a magician. 
+                   He restored some of your health. 
+      In the open rooms, evil spirits have settled. 
+                Now you have to go 10 more rooms. 
+<title-8>
+BOOK (choose what to read in the panel on the right) 
+<title-9>
+BUY
+<title-10>
+Exercise

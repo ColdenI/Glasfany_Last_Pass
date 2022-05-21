@@ -1,0 +1,10 @@
+Task 1 - Diamonds!
+
+Diamonds are a valuable but very rare resource.
+You can't do without them ... For them you can buy rare
+things. You should always have diamonds in reserve.
+
+Have 15 diamonds at your disposal.
+Reward: Iron Sword
+
+Diamonds: 

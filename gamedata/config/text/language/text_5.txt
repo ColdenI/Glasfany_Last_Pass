@@ -1,0 +1,6 @@
+The magician is a great magician. He can heal
+player, prepare a potion and who knows what else.
+Of course not free ...
+Purchased potions can be used.
+(to do this, click on their number)
+(opens at level 4) 
